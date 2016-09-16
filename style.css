@@ -1,0 +1,32 @@
+#tooltip{
+    border: 1px solid black;
+    background: whitesmoke;
+    position: absolute;
+}
+
+body{
+    height: 100%;
+    margin: 0;
+}
+
+html{
+    height: 100%;
+}
+
+.column{
+    width: 23%;
+    height: 95%;
+    float: left;
+}
+
+.btn1{
+    width: 90%;
+    height: 15%;
+    margin: 3%;
+}
+
+.btn2{
+    width: 90%;
+    height: 25%;
+    margin: 3%;
+}
